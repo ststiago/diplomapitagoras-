@@ -85,7 +85,7 @@
     </div>
   </div>  <div class="valido-container" id="valido">
     <h1>Diploma Validado com Sucesso</h1>
-    <p><strong>Nome:</strong> Thiago dos Santos Paula</p>
+    <p><strong>Nome:</strong> Tiago dos Santos Paula</p>
     <p><strong>Curso:</strong> Licenciatura em Educação Física</p>
     <p><strong>Instituição:</strong> Universidade Pitágoras Unopar Anhanguera</p>
     <p><strong>Conclusão:</strong> 14/12/2024</p>
